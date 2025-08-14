@@ -1,12 +1,6 @@
-# Основные зависимости
-streamlit
 openai-whisper
 ffmpeg-python
-
-# Для работы с аудио и распознавания
+streamlit
 numpy
-torch
-
-# Чтобы не было ошибок при установке Whisper
 tqdm
 more-itertools
