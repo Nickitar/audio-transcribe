@@ -1,7 +1,4 @@
 streamlit
-openai-whisper
-ffmpeg-python
-torch --extra-index-url https://download.pytorch.org/whl/cpu
-numpy
-tqdm
-more-itertools
+pydub
+SpeechRecognition
+vosk
